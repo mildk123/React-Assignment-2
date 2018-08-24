@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 1.5em;
+  background: rgb(235, 235, 235);
+}
+
+h1{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  text-align: center;
+  font-size: 2em;
+  margin: 0 auto;
+  margin-top: 10%;
+  padding: 25px;
+  color: whitesmoke;
+  text-transform: uppercase;
+  background: linear-gradient(to top, #a18cd1, #fbc2eb 100%);  
+  width: 30%;
+  border-radius: 30px;
+
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none; 
+   -khtml-user-select: none; 
+     -moz-user-select: none; 
+      -ms-user-select: none; 
+          user-select: none; 
+}
+h1:hover{
+  cursor: pointer;
+}
+
+.section-2{
+  margin-top: 10%;
+  float: left;
+  font-size: 0.8em;
+  font-family: 'Open Sans', sans-serif; 
+  text-align: left;
+  line-height: 20px;
+  background: rgb(212, 212, 212);
+  padding: 5%;
+  white-space: pre-line;
+}
+
